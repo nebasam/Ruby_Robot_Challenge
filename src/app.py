@@ -3,7 +3,7 @@ from processinput import ProcessInput
 
 
 def main():
-    inputFile = './inputFile.txt'
+    inputFile = '../inputFile.txt'
     processinput = ProcessInput(inputFile)
     processinput.processInstructions()
 
