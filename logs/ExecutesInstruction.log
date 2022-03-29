@@ -1,0 +1,4 @@
+2022-03-29 15:30:16,669 : ERROR : src.logger : Failed to move the robot
+TypeError: '>' not supported between instances of 'int' and 'list'
+2022-03-29 15:35:46,412 : ERROR : src.logger : Failed to move the robot
+TypeError: '>' not supported between instances of 'int' and 'list'

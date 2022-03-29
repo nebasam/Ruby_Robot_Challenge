@@ -548,3 +548,199 @@ NoneType: None
 2022-03-29 12:46:19,196 : INFO : logger : extracts ruby initial position
 2022-03-29 12:46:19,196 : ERROR : logger : Invalid ruby instruction
 NoneType: None
+2022-03-29 15:21:03,917 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:21:03,917 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:21:03,917 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:21:26,370 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:21:26,370 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:21:26,371 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:21:52,974 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:21:52,974 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:21:52,975 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:21:55,005 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:21:55,005 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:21:55,005 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:22:38,130 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:22:38,130 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:22:38,130 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:23:36,790 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:23:36,791 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:23:36,791 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:23:42,437 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:23:42,438 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:23:42,438 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:23:55,731 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:23:55,731 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:23:55,731 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:25:41,012 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:25:41,012 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:25:41,012 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:25:42,357 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:25:42,357 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:25:42,357 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:25:58,749 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:25:58,749 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:25:58,749 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:27:00,246 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:27:00,247 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:27:00,247 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:27:01,645 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:27:01,646 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:27:01,646 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:27:10,804 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:27:10,804 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:27:10,804 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:28:03,395 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:28:03,395 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:28:03,403 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:28:27,407 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:28:27,407 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:28:27,408 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:28:42,052 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:28:42,053 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:28:42,053 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:29:35,262 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:29:35,263 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:29:35,263 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:29:37,562 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:29:37,563 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:29:37,563 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:29:40,341 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:29:40,341 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:29:40,341 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:30:16,668 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:30:16,668 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:30:16,668 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:30:16,668 : INFO : src.logger : extracts ruby instruction
+2022-03-29 15:30:16,668 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:30:16,668 : INFO : src.logger : extracts ruby instruction
+2022-03-29 15:30:16,669 : ERROR : src.logger : Failed to move the robot
+TypeError: '>' not supported between instances of 'int' and 'list'
+2022-03-29 15:30:37,664 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:30:37,665 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:30:37,665 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:31:47,727 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:31:47,727 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:31:47,727 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:31:55,835 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:31:55,835 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:31:55,835 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:31:57,282 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:31:57,282 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:31:57,282 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:32:38,683 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:32:38,684 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:32:38,684 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:32:39,693 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:32:39,694 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:32:39,694 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:32:57,767 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:32:57,768 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:32:57,768 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:00,757 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:00,758 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:00,758 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:33,183 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:33,183 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:33,183 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:34,554 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:34,554 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:34,555 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:35,586 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:35,587 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:35,587 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:36,743 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:36,743 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:36,743 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:37,900 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:37,900 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:37,901 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:38,919 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:38,920 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:38,920 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:55,497 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:55,497 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:55,497 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:33:57,236 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:33:57,237 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:33:57,237 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:28,107 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:28,107 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:28,107 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:29,111 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:29,111 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:29,111 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:29,759 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:29,759 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:29,759 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:29,890 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:29,890 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:29,890 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:30,136 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:30,136 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:30,136 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:30,227 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:30,227 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:30,227 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:30,414 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:30,414 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:30,414 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:30,486 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:30,486 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:30,486 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:34:55,069 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:34:55,069 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:34:55,069 : ERROR : src.logger : Invalid ruby instruction
+NoneType: None
+2022-03-29 15:35:46,411 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 15:35:46,411 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:35:46,411 : INFO : src.logger : extracts ruby instruction
+2022-03-29 15:35:46,411 : INFO : src.logger : extracts ruby initial position
+2022-03-29 15:35:46,412 : INFO : src.logger : extracts ruby instruction
+2022-03-29 15:35:46,412 : ERROR : src.logger : Failed to move the robot
+TypeError: '>' not supported between instances of 'int' and 'list'

@@ -2,7 +2,7 @@ import re
 import sys
 sys.tracebacklimit=0
 
-from logger import Logger
+from src.logger import Logger
 
 
 
@@ -42,8 +42,11 @@ class Parser:
                     self.logger.info('extracts ruby initial position')
               
                 else:
-                    for l in line:
+                    for l in line[:-1]:
+                        print(list(line))
                         if not re.match(validRubycommands, l):
+                            print(f'this is{l}')
+                            print('what')
                             self.logger.exception('Invalid ruby instruction')
                             raise ValueError("Invalid ruby instruction")
                     MovementCommand = {'L':'LEFT','R':'RIGHT','M':'FORWARD'}
