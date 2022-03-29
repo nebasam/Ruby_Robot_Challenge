@@ -866,3 +866,81 @@ FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
 2022-03-30 00:50:18,836 : INFO : logger : Extracts Final Position
 2022-03-30 00:50:18,836 : INFO : logger : Processed Instruction
 2022-03-30 00:50:18,836 : INFO : logger : Extracts Final Position
+2022-03-30 01:59:39,108 : ERROR : logger : Failed to parse
+FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
+2022-03-30 01:59:42,577 : ERROR : logger : Failed to parse
+FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
+2022-03-30 01:59:51,442 : ERROR : logger : Failed to parse
+FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
+2022-03-30 01:59:52,417 : ERROR : logger : Failed to parse
+FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
+2022-03-30 01:59:55,607 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:59:55,607 : INFO : logger : extracts ruby initial position
+2022-03-30 01:59:55,607 : INFO : logger : extracts ruby instruction
+2022-03-30 01:59:55,607 : INFO : logger : extracts ruby initial position
+2022-03-30 01:59:55,607 : INFO : logger : extracts ruby instruction
+2022-03-30 01:59:55,607 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:59:55,607 : INFO : logger : extracts ruby initial position
+2022-03-30 01:59:55,607 : INFO : logger : extracts ruby instruction
+2022-03-30 01:59:55,608 : INFO : logger : extracts ruby initial position
+2022-03-30 01:59:55,608 : INFO : logger : extracts ruby instruction
+2022-03-30 01:59:55,608 : INFO : logger : Processed Instruction
+2022-03-30 01:59:55,608 : INFO : logger : Extracts Final Position
+2022-03-30 01:59:55,608 : INFO : logger : Processed Instruction
+2022-03-30 01:59:55,608 : INFO : logger : Extracts Final Position
+2022-03-30 02:00:01,814 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:00:01,814 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:01,814 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:01,814 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:01,814 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:01,814 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:00:01,814 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:01,815 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:01,815 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:01,815 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:01,815 : INFO : logger : Processed Instruction
+2022-03-30 02:00:01,815 : INFO : logger : Extracts Final Position
+2022-03-30 02:00:01,815 : INFO : logger : Processed Instruction
+2022-03-30 02:00:01,815 : INFO : logger : Extracts Final Position
+2022-03-30 02:00:08,432 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:00:08,432 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:08,433 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:08,433 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:08,433 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:08,433 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:00:08,433 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:08,433 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:08,434 : INFO : logger : extracts ruby initial position
+2022-03-30 02:00:08,434 : INFO : logger : extracts ruby instruction
+2022-03-30 02:00:08,434 : INFO : logger : Processed Instruction
+2022-03-30 02:00:08,434 : INFO : logger : Extracts Final Position
+2022-03-30 02:00:08,434 : INFO : logger : Processed Instruction
+2022-03-30 02:00:08,435 : INFO : logger : Extracts Final Position
+2022-03-30 02:02:08,936 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:02:08,936 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:08,937 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:08,937 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:08,937 : INFO : logger : Processed Instruction
+2022-03-30 02:02:08,937 : INFO : logger : Extracts Final Position
+2022-03-30 02:02:08,938 : INFO : logger : Processed Instruction
+2022-03-30 02:02:08,938 : INFO : logger : Extracts Final Position
+2022-03-30 02:02:10,118 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:10,118 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby initial position
+2022-03-30 02:02:10,118 : INFO : logger : extracts ruby instruction
+2022-03-30 02:02:10,118 : INFO : logger : Processed Instruction
+2022-03-30 02:02:10,119 : INFO : logger : Extracts Final Position
+2022-03-30 02:02:10,119 : INFO : logger : Processed Instruction
+2022-03-30 02:02:10,119 : INFO : logger : Extracts Final Position
