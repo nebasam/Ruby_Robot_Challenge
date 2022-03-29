@@ -2,17 +2,17 @@ import sys
 sys.tracebacklimit=0
 
 
-from src.logger import Logger
+from logger import Logger
 
 
 class ExecuteInstruction:
 
-    def __init__(self, coordinate: list, initialPosition: list):
+    def __init__(self, coordinate: list, initialPosition: list) -> None:
         self.logger = Logger("ExecutesInstruction.log").get_app_logger()
         self.Coordinate = coordinate,
         self.currentPosition = initialPosition
 
-    def processInstruction(self, Instructions: list) -> list:
+    def processInstruction(self, Instructions: list) -> None:
        try:
           MovementInstruction = {'L':'LEFT','R':'RIGHT','M':'FORWARD'}
           for Instruction in Instructions:
@@ -46,7 +46,7 @@ class ExecuteInstruction:
             sys.exit(1)
 
         
-    def Right(self):
+    def Right(self) -> list:
        try:
           rightDirectionMapping = {
             'NORTH': 'EAST',
@@ -63,7 +63,7 @@ class ExecuteInstruction:
             sys.exit(1)
         
 
-    def move(self):
+    def move(self) -> list:
        try:
          moveMappingTable = {
             'NORTH': [self.currentPosition[0], self.currentPosition[1] + 1, self.currentPosition[2]],

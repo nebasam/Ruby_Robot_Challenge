@@ -1,9 +1,9 @@
 import sys
 
 
-from src.executeinstruction import ExecuteInstruction
-from src.parser import Parser
-from src.logger import Logger
+from executeinstruction import ExecuteInstruction
+from parser import Parser
+from logger import Logger
 
 
 class ProcessInput:
@@ -13,8 +13,8 @@ class ProcessInput:
     def processInstructions(self):
         try:
             parser= Parser(self.inputFile)
+            Testfieldcoordinate = parser.parseFile()
             Testfieldcoordinate, Instructions = parser.parseFile()
-            # print(Instructions[2])
             for index, Instruction in enumerate(Instructions):
                 if index % 2 == 0:
                     # print(f'if{Instruction}')

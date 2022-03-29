@@ -2,12 +2,12 @@ import re
 import sys
 sys.tracebacklimit=0
 
-from src.logger import Logger
+from logger import Logger
 
 
 
 class Parser:
-    def __init__(self,filePath: str ):
+    def __init__(self,filePath: str ) -> None:
         self.logger = Logger("parser.log").get_app_logger()
         self.filePath =  filePath
     def parseFile(self) -> int:
@@ -49,7 +49,6 @@ class Parser:
                         commandsToMoveRuby = [MovementCommand[command] for command in list(line.replace('\n', ''))]
                         rubyInstructions.append(commandsToMoveRuby)
                         self.logger.info('extracts ruby instruction')
-                print(rubyInstructions)
                 return Testfield, rubyInstructions
         except Exception as e:
             self.logger.exception('Failed to parse')
