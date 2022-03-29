@@ -5,7 +5,7 @@ sys.tracebacklimit=0
 from src.logger import Logger
 
 
-class ExecutesInstruction:
+class ExecuteInstruction:
 
     def __init__(self, coordinate: list, initialPosition: list):
         self.logger = Logger("ExecutesInstruction.log").get_app_logger()

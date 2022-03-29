@@ -1,4 +1,4 @@
-from src.executesinstruction import ExecutesInstruction
+from executeinstruction import ExecuteInstruction
 from src.parser import Parser
 
 inputFile = 'inputFile.txt'
@@ -6,7 +6,7 @@ print('here')
 parser= Parser(inputFile)
 Testfieldcoordinate, Instruction = parser.parseFile()
 print(Instruction)
-execute  = ExecutesInstruction(Testfieldcoordinate, Instruction[0])
+execute  = ExecuteInstruction(Testfieldcoordinate, Instruction[0])
 execute.processInstruction(Instruction[1])
 Directions = {
             'NORTH': 'N',
