@@ -1,9 +1,9 @@
 import sys
 
 
-from src.executeinstruction import ExecuteInstruction
-from src.parser import Parser
-from src.logger import Logger
+from executeinstruction import ExecuteInstruction
+from parser import Parser
+from logger import Logger
 
 
 class ProcessInput:

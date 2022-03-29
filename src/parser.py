@@ -2,7 +2,7 @@ import re
 import sys
 sys.tracebacklimit=0
 
-from src.logger import Logger
+from logger import Logger
 
 
 

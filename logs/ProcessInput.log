@@ -836,3 +836,33 @@ NameError: name 'Instructions' is not defined
 2022-03-30 00:24:33,813 : INFO : src.logger : Extracts Final Position
 2022-03-30 00:24:33,813 : INFO : src.logger : Processed Instruction
 2022-03-30 00:24:33,814 : INFO : src.logger : Extracts Final Position
+2022-03-30 00:50:04,769 : ERROR : logger : Failed to parse
+FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
+2022-03-30 00:50:15,894 : INFO : logger : extracts Test field coordinates
+2022-03-30 00:50:15,895 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:15,895 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:15,895 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:15,895 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:15,896 : INFO : logger : extracts Test field coordinates
+2022-03-30 00:50:15,896 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:15,896 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:15,896 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:15,896 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:15,896 : INFO : logger : Processed Instruction
+2022-03-30 00:50:15,896 : INFO : logger : Extracts Final Position
+2022-03-30 00:50:15,896 : INFO : logger : Processed Instruction
+2022-03-30 00:50:15,897 : INFO : logger : Extracts Final Position
+2022-03-30 00:50:18,835 : INFO : logger : extracts Test field coordinates
+2022-03-30 00:50:18,835 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:18,835 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:18,835 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:18,835 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:18,835 : INFO : logger : extracts Test field coordinates
+2022-03-30 00:50:18,835 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:18,836 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:18,836 : INFO : logger : extracts ruby initial position
+2022-03-30 00:50:18,836 : INFO : logger : extracts ruby instruction
+2022-03-30 00:50:18,836 : INFO : logger : Processed Instruction
+2022-03-30 00:50:18,836 : INFO : logger : Extracts Final Position
+2022-03-30 00:50:18,836 : INFO : logger : Processed Instruction
+2022-03-30 00:50:18,836 : INFO : logger : Extracts Final Position

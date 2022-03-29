@@ -1,0 +1,16 @@
+2022-03-30 01:21:56,288 : ERROR : logger : Failed to parse
+FileNotFoundError: [Errno 2] No such file or directory: './inputFile.txt'
+2022-03-30 01:22:11,082 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:22:11,082 : INFO : logger : extracts ruby initial position
+2022-03-30 01:22:11,083 : INFO : logger : extracts ruby instruction
+2022-03-30 01:22:11,083 : INFO : logger : extracts ruby initial position
+2022-03-30 01:22:11,083 : INFO : logger : extracts ruby instruction
+2022-03-30 01:22:11,083 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:22:11,083 : INFO : logger : extracts ruby initial position
+2022-03-30 01:22:11,083 : INFO : logger : extracts ruby instruction
+2022-03-30 01:22:11,084 : INFO : logger : extracts ruby initial position
+2022-03-30 01:22:11,084 : INFO : logger : extracts ruby instruction
+2022-03-30 01:22:11,084 : INFO : logger : Processed Instruction
+2022-03-30 01:22:11,084 : INFO : logger : Extracts Final Position
+2022-03-30 01:22:11,085 : INFO : logger : Processed Instruction
+2022-03-30 01:22:11,085 : INFO : logger : Extracts Final Position

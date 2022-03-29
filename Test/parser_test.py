@@ -1,14 +1,13 @@
-import pytest
 import os
 import sys
 from mock import patch, mock_open
-sys.path.append(os.path.abspath(os.path.join('../')))
-from src.parser import Parser
+sys.path.append(os.path.abspath(os.path.join('../src')))
+from parser import Parser
 
 
 class Test_Parser:
 
-    def test_shouldParseAValidSetOfInstructions(self):
+    def test_shouldParseAValidInstructions(self):
         # Given
         filePath = 'somePathToFile/file.txt'
         mockedFileContent = '5 5\n3 3 E\nMMR\n2 2 N\nRMLM'
@@ -21,11 +20,12 @@ class Test_Parser:
         rubyInstruction1 = ['FORWARD', 'FORWARD', 'RIGHT']
         rubyInstruction2 = ['RIGHT', 'FORWARD', 'LEFT', 'FORWARD']
 
-        expectedSetOfInstructions = Testfielcoordinate,[ruby1position,rubyInstruction1,ruby2position,rubyInstruction2]
+        expectedInstructions = Testfielcoordinate,[ruby1position,rubyInstruction1,ruby2position,rubyInstruction2]
 
         # When
         with patch('builtins.open', mock_open(read_data=mockedFileContent)):
             result = parser.parseFile()
 
         # Then
-        assert result == expectedSetOfInstructions
+        assert result == expectedInstructions
+    
