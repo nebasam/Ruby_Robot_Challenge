@@ -6,13 +6,35 @@ from logger import Logger
 
 
 class ExecuteInstruction:
+   """An ExecuteInstruction Class where it will executes the instructions for the ruby robot.
+    Parameters
+    ----------
+    coordinate : list
+        the test field coordinates
+    initialPosition: list
+        the initial position of ruby robot
+    Returns
+    -------
+    None
+    """
 
-    def __init__(self, coordinate: list, initialPosition: list) -> None:
+   def __init__(self, coordinate: list, initialPosition: list) -> None:
         self.logger = Logger("ExecutesInstruction.log").get_app_logger()
         self.Coordinate = coordinate,
         self.currentPosition = initialPosition
 
-    def processInstruction(self, Instructions: list) -> None:
+   def processInstruction(self, Instructions: list) -> None:
+       """process instruction by mapping every letter to corresponding function.
+        Parameters
+        ----------
+        Instructions: list
+            the instructions used to move the ruby robot
+
+        Returns
+        -------
+        None
+      
+        """
        try:
           MovementInstruction = {'L':'LEFT','R':'RIGHT','M':'FORWARD'}
           for Instruction in Instructions:
@@ -27,8 +49,17 @@ class ExecuteInstruction:
             self.logger.exception('Failed to process Instruction')
             sys.exit(1)
     
-    def Left(self) -> list:
-        """
+   def Left(self) -> list:
+        """ Orients the ruby robot to the left.
+        Parameters
+        ----------
+        None
+        
+
+        Returns
+        -------
+        list 
+          the new position of the ruby robot
         """
         try:
            leftDirectionMapping = {
@@ -46,7 +77,18 @@ class ExecuteInstruction:
             sys.exit(1)
 
         
-    def Right(self) -> list:
+   def Right(self) -> list:
+       """ Orients the ruby robot to the right
+        Parameters
+        ----------
+        None
+        
+
+        Returns
+        -------
+        list 
+          the new position of the ruby robot
+        """
        try:
           rightDirectionMapping = {
             'NORTH': 'EAST',
@@ -63,7 +105,18 @@ class ExecuteInstruction:
             sys.exit(1)
         
 
-    def move(self) -> list:
+   def move(self) -> list:
+       """ moves the ruby robot forward.
+        Parameters
+        ----------
+        None
+        
+
+        Returns
+        -------
+        list 
+          the new position of the ruby robot
+        """
        try:
          moveMappingTable = {
             'NORTH': [self.currentPosition[0], self.currentPosition[1] + 1, self.currentPosition[2]],

@@ -7,10 +7,30 @@ from logger import Logger
 
 
 class ProcessInput:
+    """A ProcessInput Class where it will process the input after it is parsed 
+       by using execueting scripts then print the output.
+    Parameters
+    ----------
+    inputfile : str
+        the file that will be processed
+    Returns
+    -------
+    None
+    """
     def __init__(self, inputfile: str):
         self.logger = Logger("ProcessInput.log").get_app_logger()
         self.inputFile = inputfile
     def processInstructions(self):
+        """process the instructions that is extracted from a file.
+        Parameters
+        ----------
+        None
+
+        Returns
+        -------
+        str
+            Returns final position of the ruby robots
+        """
         try:
             parser= Parser(self.inputFile)
             Testfieldcoordinate = parser.parseFile()
