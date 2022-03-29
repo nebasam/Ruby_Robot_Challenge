@@ -7,7 +7,7 @@ from src.logger import Logger
 
 
 class Parser:
-    def __init__(self,filePath: str ):
+    def __init__(self,filePath: str ) -> None:
         self.logger = Logger("parser.log").get_app_logger()
         self.filePath =  filePath
     def parseFile(self) -> int:
