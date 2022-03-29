@@ -2119,3 +2119,17 @@ NameError: name 'Instructions' is not defined
 2022-03-29 23:37:03,813 : INFO : src.logger : extracts ruby instruction
 2022-03-29 23:37:03,813 : INFO : src.logger : extracts ruby initial position
 2022-03-29 23:37:03,813 : INFO : src.logger : extracts ruby instruction
+2022-03-30 00:24:33,808 : INFO : src.logger : extracts Test field coordinates
+2022-03-30 00:24:33,809 : INFO : src.logger : extracts ruby initial position
+2022-03-30 00:24:33,809 : INFO : src.logger : extracts ruby instruction
+2022-03-30 00:24:33,810 : INFO : src.logger : extracts ruby initial position
+2022-03-30 00:24:33,810 : INFO : src.logger : extracts ruby instruction
+2022-03-30 00:24:33,810 : INFO : src.logger : extracts Test field coordinates
+2022-03-30 00:24:33,811 : INFO : src.logger : extracts ruby initial position
+2022-03-30 00:24:33,811 : INFO : src.logger : extracts ruby instruction
+2022-03-30 00:24:33,811 : INFO : src.logger : extracts ruby initial position
+2022-03-30 00:24:33,811 : INFO : src.logger : extracts ruby instruction
+2022-03-30 00:24:33,812 : INFO : src.logger : Processed Instruction
+2022-03-30 00:24:33,813 : INFO : src.logger : Extracts Final Position
+2022-03-30 00:24:33,813 : INFO : src.logger : Processed Instruction
+2022-03-30 00:24:33,814 : INFO : src.logger : Extracts Final Position
