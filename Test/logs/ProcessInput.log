@@ -14,3 +14,45 @@ FileNotFoundError: [Errno 2] No such file or directory: './inputFile.txt'
 2022-03-30 01:22:11,084 : INFO : logger : Extracts Final Position
 2022-03-30 01:22:11,085 : INFO : logger : Processed Instruction
 2022-03-30 01:22:11,085 : INFO : logger : Extracts Final Position
+2022-03-30 01:42:14,809 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:42:14,809 : INFO : logger : extracts ruby initial position
+2022-03-30 01:42:14,810 : INFO : logger : extracts ruby instruction
+2022-03-30 01:42:14,810 : INFO : logger : extracts ruby initial position
+2022-03-30 01:42:14,810 : INFO : logger : extracts ruby instruction
+2022-03-30 01:42:14,810 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:42:14,810 : INFO : logger : extracts ruby initial position
+2022-03-30 01:42:14,810 : INFO : logger : extracts ruby instruction
+2022-03-30 01:42:14,811 : INFO : logger : extracts ruby initial position
+2022-03-30 01:42:14,811 : INFO : logger : extracts ruby instruction
+2022-03-30 01:42:14,811 : INFO : logger : Processed Instruction
+2022-03-30 01:42:14,811 : INFO : logger : Extracts Final Position
+2022-03-30 01:42:14,811 : INFO : logger : Processed Instruction
+2022-03-30 01:42:14,811 : INFO : logger : Extracts Final Position
+2022-03-30 01:43:15,723 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:43:15,724 : INFO : logger : extracts ruby initial position
+2022-03-30 01:43:15,724 : INFO : logger : extracts ruby instruction
+2022-03-30 01:43:15,724 : INFO : logger : extracts ruby initial position
+2022-03-30 01:43:15,724 : INFO : logger : extracts ruby instruction
+2022-03-30 01:43:15,725 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:43:15,725 : INFO : logger : extracts ruby initial position
+2022-03-30 01:43:15,725 : INFO : logger : extracts ruby instruction
+2022-03-30 01:43:15,725 : INFO : logger : extracts ruby initial position
+2022-03-30 01:43:15,725 : INFO : logger : extracts ruby instruction
+2022-03-30 01:43:15,726 : INFO : logger : Processed Instruction
+2022-03-30 01:43:15,726 : INFO : logger : Extracts Final Position
+2022-03-30 01:43:15,726 : INFO : logger : Processed Instruction
+2022-03-30 01:43:15,727 : INFO : logger : Extracts Final Position
+2022-03-30 01:44:23,513 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:44:23,513 : INFO : logger : extracts ruby initial position
+2022-03-30 01:44:23,514 : INFO : logger : extracts ruby instruction
+2022-03-30 01:44:23,514 : INFO : logger : extracts ruby initial position
+2022-03-30 01:44:23,514 : INFO : logger : extracts ruby instruction
+2022-03-30 01:44:23,514 : INFO : logger : extracts Test field coordinates
+2022-03-30 01:44:23,514 : INFO : logger : extracts ruby initial position
+2022-03-30 01:44:23,515 : INFO : logger : extracts ruby instruction
+2022-03-30 01:44:23,515 : INFO : logger : extracts ruby initial position
+2022-03-30 01:44:23,515 : INFO : logger : extracts ruby instruction
+2022-03-30 01:44:23,515 : INFO : logger : Processed Instruction
+2022-03-30 01:44:23,516 : INFO : logger : Extracts Final Position
+2022-03-30 01:44:23,516 : INFO : logger : Processed Instruction
+2022-03-30 01:44:23,516 : INFO : logger : Extracts Final Position
