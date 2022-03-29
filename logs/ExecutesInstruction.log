@@ -279,3 +279,21 @@ IndexError: list index out of range
 2022-03-29 20:02:16,350 : INFO : src.logger : Processed Instruction
 2022-03-29 20:02:16,350 : INFO : src.logger : Extracts Final Position
 2022-03-29 20:02:16,350 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,153 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,153 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,154 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,154 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,154 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,154 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,214 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,214 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,214 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,214 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,215 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,215 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,687 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,687 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,687 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,687 : INFO : src.logger : Processed Instruction
+2022-03-29 23:15:35,687 : INFO : src.logger : Extracts Final Position
+2022-03-29 23:15:35,687 : INFO : src.logger : Extracts Final Position

@@ -49,7 +49,6 @@ class Parser:
                         commandsToMoveRuby = [MovementCommand[command] for command in list(line.replace('\n', ''))]
                         rubyInstructions.append(commandsToMoveRuby)
                         self.logger.info('extracts ruby instruction')
-                print(rubyInstructions)
                 return Testfield, rubyInstructions
         except Exception as e:
             self.logger.exception('Failed to parse')
