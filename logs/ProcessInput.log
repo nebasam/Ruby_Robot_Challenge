@@ -1,0 +1,747 @@
+2022-03-29 19:24:21,935 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,936 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,937 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,938 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,938 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,938 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,938 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,938 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,938 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:21,939 : INFO : src.logger : Processed Instruction
+2022-03-29 19:24:21,939 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:24:21,940 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,232 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:24:24,233 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,234 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : Processed Instruction
+2022-03-29 19:24:24,235 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:24:24,235 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,367 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,368 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:23,369 : INFO : src.logger : Processed Instruction
+2022-03-29 19:30:23,370 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:30:23,370 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:30:31,792 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:30:31,792 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:30:31,792 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,793 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,794 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:30:31,795 : INFO : src.logger : Processed Instruction
+2022-03-29 19:30:31,796 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:30:31,796 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:34:42,614 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:34:42,614 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:34:42,614 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,615 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,616 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : Processed Instruction
+2022-03-29 19:34:42,617 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:34:42,618 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:37:01,025 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:37:01,025 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:37:01,025 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,025 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,026 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,027 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,028 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,028 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:37:01,028 : INFO : src.logger : Processed Instruction
+2022-03-29 19:37:01,028 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:37:01,029 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:41:03,129 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:41:03,129 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:41:03,129 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,129 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,129 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,130 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,131 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,131 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,131 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,131 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,131 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:03,131 : INFO : src.logger : Processed Instruction
+2022-03-29 19:41:03,133 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:41:03,133 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,709 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,710 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : Processed Instruction
+2022-03-29 19:41:52,711 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:41:52,712 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:43:40,680 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:43:40,680 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:40,680 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,680 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,681 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : Processed Instruction
+2022-03-29 19:43:40,682 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:43:40,683 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:43:42,207 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:43:42,207 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,208 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,209 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,210 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:42,211 : INFO : src.logger : Processed Instruction
+2022-03-29 19:43:42,211 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:43:42,211 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:43:43,195 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:43:43,195 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,196 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : Processed Instruction
+2022-03-29 19:43:43,197 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:43:43,198 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:43:57,590 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:43:57,590 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,591 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,592 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,593 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:43:57,594 : INFO : src.logger : Processed Instruction
+2022-03-29 19:43:57,594 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:43:57,594 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:44:30,723 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,724 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,725 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,726 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,726 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,726 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,726 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,726 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:30,726 : INFO : src.logger : Processed Instruction
+2022-03-29 19:44:30,727 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:44:30,727 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,397 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,398 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:44:42,399 : INFO : src.logger : Processed Instruction
+2022-03-29 19:44:42,399 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:44:42,399 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:45:56,097 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:45:56,097 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:45:56,097 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,098 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,099 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:45:56,100 : INFO : src.logger : Processed Instruction
+2022-03-29 19:45:56,101 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:45:56,101 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,963 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,964 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,965 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,965 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:46:15,965 : INFO : src.logger : Processed Instruction
+2022-03-29 19:46:15,965 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:46:15,965 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:53:44,761 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,762 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,763 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,764 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:44,765 : INFO : src.logger : Processed Instruction
+2022-03-29 19:53:44,765 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:53:44,765 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:53:51,554 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:53:51,554 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,555 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,556 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,557 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,557 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:53:51,557 : INFO : src.logger : Processed Instruction
+2022-03-29 19:53:51,557 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:53:51,558 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,750 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,751 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : Processed Instruction
+2022-03-29 19:55:39,752 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:55:39,752 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:56:15,069 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:56:15,069 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:56:19,331 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:56:19,331 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:56:42,916 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:56:42,916 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,917 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,918 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,919 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:56:42,919 : INFO : src.logger : Processed Instruction
+2022-03-29 19:56:42,919 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:56:42,919 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:57:17,220 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:57:17,220 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,221 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,222 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,223 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:57:17,224 : INFO : src.logger : Processed Instruction
+2022-03-29 19:57:17,224 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:57:17,224 : ERROR : src.logger : Failed to orient the ruby to the right direction
+KeyError: 'RIGHT'
+2022-03-29 19:58:33,211 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 19:58:33,212 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:58:33,212 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:58:33,212 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:58:33,212 : INFO : src.logger : extracts ruby initial position
+2022-03-29 19:58:33,212 : INFO : src.logger : extracts ruby instruction
+2022-03-29 19:58:33,212 : INFO : src.logger : Processed Instruction
+2022-03-29 19:58:33,212 : INFO : src.logger : Extracts Final Position
+2022-03-29 19:58:33,212 : INFO : src.logger : Processed Instruction
+2022-03-29 19:58:33,213 : ERROR : src.logger : Failed to process input
+IndexError: list index out of range
+2022-03-29 20:02:11,529 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 20:02:11,529 : INFO : src.logger : extracts ruby initial position
+2022-03-29 20:02:11,529 : INFO : src.logger : extracts ruby instruction
+2022-03-29 20:02:11,529 : INFO : src.logger : extracts ruby initial position
+2022-03-29 20:02:11,529 : INFO : src.logger : extracts ruby instruction
+2022-03-29 20:02:11,529 : INFO : src.logger : Processed Instruction
+2022-03-29 20:02:11,529 : INFO : src.logger : Extracts Final Position
+2022-03-29 20:02:11,529 : INFO : src.logger : Processed Instruction
+2022-03-29 20:02:11,530 : INFO : src.logger : Extracts Final Position
+2022-03-29 20:02:16,348 : INFO : src.logger : extracts Test field coordinates
+2022-03-29 20:02:16,348 : INFO : src.logger : extracts ruby initial position
+2022-03-29 20:02:16,348 : INFO : src.logger : extracts ruby instruction
+2022-03-29 20:02:16,348 : INFO : src.logger : extracts ruby initial position
+2022-03-29 20:02:16,348 : INFO : src.logger : extracts ruby instruction
+2022-03-29 20:02:16,349 : INFO : src.logger : Processed Instruction
+2022-03-29 20:02:16,349 : INFO : src.logger : Extracts Final Position
+2022-03-29 20:02:16,350 : INFO : src.logger : Processed Instruction
+2022-03-29 20:02:16,350 : INFO : src.logger : Extracts Final Position

@@ -72,8 +72,10 @@ class ExecuteInstruction:
             'EAST':  [self.currentPosition[0] + 1, self.currentPosition[1], self.currentPosition[2]]
          }
          newPosition = moveMappingTable[self.currentPosition[2]]
-         if (newPosition[0] > self.Coordinate[0] or newPosition[1] > self.Coordinate[1]):
-            raise ValueError('ruby cannot be driven out of testfield coordinate')
+         if (newPosition[0] > self.Coordinate[0][0] or newPosition[0] > self.Coordinate[0][1]):
+            self.logger.exception('ruby position out of testfield coordinate')
+            print('ruby cannot be driven out of testfield coordinate')
+            raise ValueError("ruby cannot be driven out of testfield coordinate")
          self.currentPosition = newPosition
         
          return self.currentPosition
