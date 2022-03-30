@@ -7,10 +7,31 @@ from logger import Logger
 
 
 class Parser:
+    """A Parser Class which parses the inputfile whether the file holds the right character.
+
+    Parameters
+    ----------
+    filePath : str
+        the file that will be parsed
+    Returns
+    -------
+    None
+    """
     def __init__(self,filePath: str ) -> None:
         self.logger = Logger("parser.log").get_app_logger()
         self.filePath =  filePath
     def parseFile(self) -> int:
+        """Checks whether the value inside the file is valid to control the ruby robot.
+        Parameters
+        ----------
+        None
+
+        Returns
+        -------
+        tuple
+            Returns tuple of the testfield coordinates and instructions for the ruby robot that is
+            parsed from the file
+        """
         try:
             validCoordinatesInput = re.compile("^[0-9]* [0-9]*$") 
             validRubyPosition = re.compile("^[0-9]* [0-9]* [NSEW]$")
