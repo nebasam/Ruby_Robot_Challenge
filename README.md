@@ -33,6 +33,7 @@ LMRMLMRMRLMRRM
 ```
 
 ## Project Structure
+```
 
 .github                        # github workflows for dockerizing the code
 
@@ -53,6 +54,7 @@ Tests
 |__processinput_test.py        # script for testing processinput function
 
 inputFile.txt                  # inputFile for controlling the robot
+```
 
 ## How to install and use
 
