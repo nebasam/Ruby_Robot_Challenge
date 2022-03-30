@@ -2241,3 +2241,17 @@ FileNotFoundError: [Errno 2] No such file or directory: '../inputFile.txt'
 2022-03-30 02:02:10,119 : INFO : logger : Extracts Final Position
 2022-03-30 02:02:10,119 : INFO : logger : Processed Instruction
 2022-03-30 02:02:10,119 : INFO : logger : Extracts Final Position
+2022-03-30 02:42:24,264 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:42:24,264 : INFO : logger : extracts ruby initial position
+2022-03-30 02:42:24,265 : INFO : logger : extracts ruby instruction
+2022-03-30 02:42:24,265 : INFO : logger : extracts ruby initial position
+2022-03-30 02:42:24,265 : INFO : logger : extracts ruby instruction
+2022-03-30 02:42:24,266 : INFO : logger : extracts Test field coordinates
+2022-03-30 02:42:24,266 : INFO : logger : extracts ruby initial position
+2022-03-30 02:42:24,266 : INFO : logger : extracts ruby instruction
+2022-03-30 02:42:24,266 : INFO : logger : extracts ruby initial position
+2022-03-30 02:42:24,267 : INFO : logger : extracts ruby instruction
+2022-03-30 02:42:24,267 : INFO : logger : Processed Instruction
+2022-03-30 02:42:24,267 : INFO : logger : Extracts Final Position
+2022-03-30 02:42:24,268 : INFO : logger : Processed Instruction
+2022-03-30 02:42:24,268 : INFO : logger : Extracts Final Position

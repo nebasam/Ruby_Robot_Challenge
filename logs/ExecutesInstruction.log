@@ -345,3 +345,9 @@ IndexError: list index out of range
 2022-03-30 02:02:10,119 : INFO : logger : Processed Instruction
 2022-03-30 02:02:10,119 : INFO : logger : Extracts Final Position
 2022-03-30 02:02:10,119 : INFO : logger : Extracts Final Position
+2022-03-30 02:42:24,267 : INFO : logger : Processed Instruction
+2022-03-30 02:42:24,267 : INFO : logger : Extracts Final Position
+2022-03-30 02:42:24,268 : INFO : logger : Processed Instruction
+2022-03-30 02:42:24,268 : INFO : logger : Processed Instruction
+2022-03-30 02:42:24,268 : INFO : logger : Extracts Final Position
+2022-03-30 02:42:24,268 : INFO : logger : Extracts Final Position
