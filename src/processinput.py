@@ -33,14 +33,11 @@ class ProcessInput:
         """
         try:
             parser= Parser(self.inputFile)
-            Testfieldcoordinate = parser.parseFile()
             Testfieldcoordinate, Instructions = parser.parseFile()
             for index, Instruction in enumerate(Instructions):
                 if index % 2 == 0:
-                    # print(f'if{Instruction}')
                     execute  = ExecuteInstruction(Testfieldcoordinate, Instruction)
                 else: 
-                    # print(f'else {Instruction}')
                     execute.processInstruction(Instruction)
                     Directions = {
                         'NORTH': 'N',
